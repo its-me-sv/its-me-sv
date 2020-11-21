@@ -33,4 +33,9 @@
     <li>Problem Solving (Basic) Certificate</li>
     <li>Python (Basic) Certificate</li>
     </ul></li></ul>
+  <ul><li>🔥 FreeCodeCamp
+  <ul>
+    <li>Responsive Web Design</li>
+    <li>Scientific Computing With Python</li>
+    </ul></li></ul>
 </h3>        
