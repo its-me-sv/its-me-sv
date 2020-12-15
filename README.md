@@ -1,6 +1,10 @@
 <h1>Suraj Vijay 🤵</h1>
 <h2>🤷 About Me</h2>
-<h3>Hello guys!! My Name Is Suraj Vijay. There is no work for developer without a client. So I respect my clients and would try my best to satisfy them with my projects. I have been into python coding for past 2 years and can make projects from scartch also develop desktop based applications using python and PyQt. I can transform your needs/ideas into Desktop Applications[.exe] and can make resource files [like logos, icon, buttons] for you on my own using Photoshop.</h3>
+<h3>At the age of 15 I made up mind to become a software engineer which made me to opt for the Computer Science group in my 12th grade. After successfully graduating high school from SBOA School And Junior College I'm currently presuming my 1st year in Artificial Intelligence And Data Science from  Shri Venkateshwara College Of Engineering. 
+
+In this pandemic I learnt many new skills like making desktop applications using python and designing fully functioning websites using html and CSS. I Also indulged myself into Competitive Programming and I Currently have a Golden batch in Statistics, Python, Problem Solving And JavaScript Which was given by HackerRank. Apart from this I'm 1 Star Rated User In CodeChef. I'm officially certified as Scientific Python Developer And Responsive Web Designer from FreeCodeCamp. Along With All These Skills I'm Also good at Fundamentals Of Networking And Cyber Security which enabled me to establish my website from my own server at zero cost.
+
+In the upcoming years I have planned to stack up myself with many new skills and technologies and I'm looking forward to work in a company where I Can put all my skills and hard work for the company's growth.</h3>
 <h2>🌐 Languages</h2>
 <h3>
   <ul>
