@@ -15,7 +15,7 @@ In the upcoming years I have planned to stack up myself with many new skills and
       </ul>
     </li>
     <li>🧑🏻‍🤝‍🧑🏻 Homposapien Compilable</li>
-    <ul><li>Tamil</li><li>English</li></ul>
+    <ul><li>தமிழ் (Tamil)</li><li>English</li></ul>
     </ul>
 </h3>
 <h2>🏫 Education</h2>
