@@ -32,7 +32,7 @@ In the upcoming years I have planned to stack up myself with many new skills and
          <h2>👷 Free Lancing At Fiverr [https://www.fiverr.com/surajvijay806]</h2>
 <h2>📜 Certification</h2>
 <h3>
-  <ul><li>🇭🇷 HackerRank
+  <ul><li>🇭 🇷 HackerRank
   <ul>
     <li>Problem Solving (Basic) Certificate</li>
     <li>Python (Basic) Certificate</li>
