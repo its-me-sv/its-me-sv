@@ -40,5 +40,6 @@ In the upcoming years I have planned to stack up myself with many new skills and
   <ul>
     <li>Responsive Web Design</li>
     <li>Scientific Computing With Python</li>
+    <li>JavaScript Algorithms and Data Structures</li>
     </ul></li></ul>
 </h3>        
