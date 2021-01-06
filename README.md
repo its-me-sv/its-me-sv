@@ -22,11 +22,11 @@ In the upcoming years I have planned to stack up myself with many new skills and
 <h3>
   <ul>
     <li>🍭 Pre School
-      <ul><li>SBOA School & Junior College [2008 - 2020]</li></ul></li>
+      <ul><li>Don Bosco Nursery and Primary School</li></ul></li>
     <li>🎒 High School
-      <ul><li>SBOA School & Junior College [2008 - 2020]</li></ul></li>
+      <ul><li>SBOA School & Junior College</li></ul></li>
     <li>🎓 College
-       <ul><li>Sri Venkateswara College of Engineering [2020 - 2024]</li><ul></li>
+       <ul><li>Sri Venkateswara College of Engineering</li><ul></li>
   <ul>
 </h3>
 <h2>📚 Currently Learning</h2>
