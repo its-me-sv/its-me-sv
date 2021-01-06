@@ -21,9 +21,9 @@ In the upcoming years I have planned to stack up myself with many new skills and
 <h2>🏫 Education</h2>
 <h3>
   <ul>
-    <li>High School
+    <li>🎒 High School
       <ul><li>SBOA School & Junior College [2008 - 2020]</li></ul></li>
-    <li>College
+    <li>🎓 College
        <ul><li>Sri Venkateswara College of Engineering [2020 - 2024]</li><ul></li>
   <ul>
 </h3>
