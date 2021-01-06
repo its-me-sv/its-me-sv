@@ -21,6 +21,8 @@ In the upcoming years I have planned to stack up myself with many new skills and
 <h2>🏫 Education</h2>
 <h3>
   <ul>
+    <li>🍭 Pre School
+      <ul><li>SBOA School & Junior College [2008 - 2020]</li></ul></li>
     <li>🎒 High School
       <ul><li>SBOA School & Junior College [2008 - 2020]</li></ul></li>
     <li>🎓 College
