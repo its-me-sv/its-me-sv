@@ -9,6 +9,7 @@ In the upcoming years I have planned to stack up myself with many new skills and
     <li>🤖 Computer Compilable
       <ul>
         <li>🖥️ C++</li>
+        <li>💻 C</li>
         <li>📊 Python</li>
         <li>✨ HTML / CSS</li>
         <li>🌐 JavaScript</li>
