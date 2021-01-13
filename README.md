@@ -31,7 +31,7 @@ In the upcoming years I have planned to stack up myself with many new skills and
   <ul>
 </h3>
 <h2>📚 Currently Learning</h2>
-<h3>Full Stack Web Development</h3>
+<h3>Full Stack Web Development By ZTM</h3>
          <h2>👷 Free Lancing At Fiverr [https://www.fiverr.com/surajvijay806]</h2>
 <h2>📜 Certification</h2>
 <h3>
