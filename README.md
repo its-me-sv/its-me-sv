@@ -46,5 +46,4 @@ In the upcoming years I have planned to stack up myself with many new skills and
     <li>Scientific Computing With Python</li>
     <li>JavaScript Algorithms and Data Structures</li>
     </ul></li></ul>
-</h3>        
-![its-me-sv's github stats](https://github-readme-stats.vercel.app/api?username=its-me-sv&show_icons=true&hide_border=true)
+</h3>  
