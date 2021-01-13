@@ -47,3 +47,4 @@ In the upcoming years I have planned to stack up myself with many new skills and
     <li>JavaScript Algorithms and Data Structures</li>
     </ul></li></ul>
 </h3>        
+![Github stats] (https://github-readme-stats.vercel.app/api?username=its-me-sv&theme=react&show_icons=true&count_private=true)
