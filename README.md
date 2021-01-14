@@ -32,3 +32,4 @@
     * #### [Responsive Web Design](https://www.freecodecamp.org/certification/sura_vijay_115_py/responsive-web-design)
     * #### [Scientific Computing With Python](https://www.freecodecamp.org/certification/sura_vijay_115_py/scientific-computing-with-python-v7)
     * #### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sura_vijay_115_py/javascript-algorithms-and-data-structures)
+ ![its-me-sv's github stats](https://github-readme-stats.vercel.app/api?username=its-me-sv&theme=dark&show_icons=true)
