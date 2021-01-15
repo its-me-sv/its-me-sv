@@ -12,8 +12,8 @@
   * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="✨ CSS">
   * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="🌐 JavaScript">
 * ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
-  * தமிழ் (Tamil)
-  * English
+  * #### தமிழ் (Tamil)
+  * #### English
  ## 🏫 Education
  * ### 🍭 Pre School
     * #### Don Bosco Nursery and Primary School
