@@ -28,6 +28,7 @@
  * ### <img height="42" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank">
     * #### [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/9ab00c1b70a3)
     * #### [Python (Basic) Certificate](https://www.hackerrank.com/certificates/6cc3fe2ce333)
+    * #### [Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/b58f2dd9c23a)
  * ### 🔥 FreeCodeCamp
     * #### [Responsive Web Design](https://www.freecodecamp.org/certification/sura_vijay_115_py/responsive-web-design)
     * #### [Scientific Computing With Python](https://www.freecodecamp.org/certification/sura_vijay_115_py/scientific-computing-with-python-v7)
