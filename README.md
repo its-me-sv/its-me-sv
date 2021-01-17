@@ -35,3 +35,5 @@
     * #### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sura_vijay_115_py/javascript-algorithms-and-data-structures)
 ## GitHub Stat's
 ![its-me-sv's github stats](https://github-readme-stats.vercel.app/api?username=its-me-sv&theme=flag-india&show_icons=true)
+## 🏆 GitHub Profile Trophies
+![its-me-sv github profile trophies](🏆)
