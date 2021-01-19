@@ -3,7 +3,7 @@
 ### At the age of 15 I made up mind to become a software engineer which made me to opt for the Computer Science group in my 12th grade. After successfully graduating high school from SBOA School And Junior College I'm currently presuming my 1st year in Artificial Intelligence And Data Science from  Shri Venkateshwara College Of Engineering.
 ### In the 2020 pandemic I learnt many new skills like making desktop applications using python and designing fully functioning websites using html and CSS. I Also indulged myself into Competitive Programming and I Currently have a Golden batch in Statistics, Python, Problem Solving And JavaScript Which was given by HackerRank. Apart from this I'm 1 Star Rated User In CodeChef. I'm officially certified as Scientific Python Developer And Responsive Web Designer from FreeCodeCamp. Along With All These Skills I'm Also good at Fundamentals Of Networking And Cyber Security which enabled me to establish my website from my own server at zero cost.
 ### In the upcoming years I have planned to stack up myself with many new skills and technologies and I'm looking forward to work in a company where I Can put all my skills and hard work for the company's growth.
-## 🈸 Languages
+## 🈸 Languages & Technologies
 * ### 🤖 Computer Compilable 
   * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="💻 C">
   * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="🖥️ C++">
