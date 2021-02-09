@@ -39,3 +39,4 @@
 ![its-me-sv's github stats](https://github-readme-stats.vercel.app/api?username=its-me-sv&theme=flag-india&show_icons=true)
 ## 🏆 GitHub Profile Trophies
 ![its-me-sv github profile trophies](https://github-profile-trophy.vercel.app/?username=its-me-sv)
+## 👨‍💻 [Resume](Resume.pdf)
