@@ -11,6 +11,7 @@
   * HTML
   * CSS
   * JavaScript
+  * Command Line
 * ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
   * #### தமிழ் (Tamil)
   * #### English
