@@ -5,12 +5,12 @@
 ### In the upcoming years I have planned to stack up myself with many new skills and technologies and I'm looking forward to work in a company where I Can put all my skills and hard work for the company's growth.
 ## 🈸 Languages & Technologies
 * ### 🤖 Computer Compilable 
-  * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="💻 C"> 
-  * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="🖥️ C++">
-  * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="📊 Python">
-  * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="✨ HTML">
-  * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="✨ CSS">
-  * <img height="42" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="🌐 JavaScript">
+  * C
+  * C++
+  * Python
+  * HTML
+  * CSS
+  * JavaScript
 * ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
   * #### தமிழ் (Tamil)
   * #### English
