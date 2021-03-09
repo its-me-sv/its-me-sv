@@ -12,7 +12,7 @@
   * CSS
   * JavaScript
   * Command Line
-* ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
+* ### 🧑🏻‍🤝‍🧑🏻 Homosapien Compilable
   * #### தமிழ் (Tamil)
   * #### English
  ## 🏫 Education
