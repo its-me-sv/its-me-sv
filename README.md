@@ -34,7 +34,7 @@
     * #### [Responsive Web Design](https://www.freecodecamp.org/certification/sura_vijay_115_py/responsive-web-design)
     * #### [Scientific Computing With Python](https://www.freecodecamp.org/certification/sura_vijay_115_py/scientific-computing-with-python-v7)
     * #### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sura_vijay_115_py/javascript-algorithms-and-data-structures)
- * ###  <img height="42" src="https://lever-client-logos.s3.us-west-2.amazonaws.com/63a8149d-79fd-4c15-8241-2a3d73c0445b-1607995671294.png" alt ="Coursera">
+ * ###  <img height="42" src="https://about.coursera.org/images/logos/coursera-logo-full-rgb.png" alt ="Coursera">
     * #### [University of Michigan - Problem Solving Using Computational Thinking](https://coursera.org/share/035a822fb286a7a6875f7d269746b2f3)
 ## 📊 GitHub Stat's
 ![its-me-sv's github stats](https://github-readme-stats.vercel.app/api?username=its-me-sv&theme=flag-india&show_icons=true)
