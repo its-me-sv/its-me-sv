@@ -23,7 +23,7 @@
  * ### 🎓 College
     * #### Sri Venkateswara College of Engineering
  ## 📚 Currently Into
-  * ### Full Stack Web Development By [ZTM](https://github.com/zero-to-mastery)
+  * ### Complete React Developer By [ZTM](https://zerotomastery.io/)
  ## 📜 Certification
  * ### <img height="42" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank">
     * #### [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/9ab00c1b70a3)
