@@ -44,5 +44,3 @@
 ![its-me-sv github profile trophies](https://github-profile-trophy.vercel.app/?username=its-me-sv)
 ## Most Used Languages
 ![its-me-sv most used programming languages](https://github-readme-stats.vercel.app/api/top-langs?username=its-me-sv&show_icons=true&locale=en&layout=compact)
-## 👨‍💻 Resume
-### Check out my resume [here](Resume.pdf)
