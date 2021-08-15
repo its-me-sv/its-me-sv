@@ -36,6 +36,7 @@
     * #### [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/sura_vijay_115_py/javascript-algorithms-and-data-structures)
     * #### [Front End Libraries](https://www.freecodecamp.org/certification/sura_vijay_115_py/front-end-libraries)
     * #### [APIs and Microservices](https://www.freecodecamp.org/certification/sura_vijay_115_py/apis-and-microservices)
+    * #### [Legacy Front End](https://www.freecodecamp.org/certification/sura_vijay_115_py/legacy-front-end)
  * ###  <img height="42" src="https://about.coursera.org/images/logos/coursera-logo-full-rgb.png" alt ="Coursera">
     * #### [University of Michigan - Problem Solving Using Computational Thinking](https://coursera.org/share/035a822fb286a7a6875f7d269746b2f3)
 ## 📊 GitHub Stat's
