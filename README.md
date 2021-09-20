@@ -32,6 +32,7 @@
     * #### [JavaScript (Intermediate) Certificate](https://www.hackerrank.com/certificates/a8df11daf5d3)
     * #### [React (Basic) Certificate](https://www.hackerrank.com/certificates/e47e5b043717)
     * #### [Node (Basic) Certificate](https://www.hackerrank.com/certificates/992515588fbf)
+    * #### [JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/e19e5488dd5f)
  * ### 🔥 FreeCodeCamp
     * #### [Responsive Web Design](https://www.freecodecamp.org/certification/sura_vijay_115_py/responsive-web-design)
     * #### [Scientific Computing With Python](https://www.freecodecamp.org/certification/sura_vijay_115_py/scientific-computing-with-python-v7)
