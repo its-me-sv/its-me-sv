@@ -12,6 +12,10 @@
   * CSS
   * JavaScript
   * Command Line Interface
+  * ReactJS
+  * MongoDB
+  * NodeJS
+  * ExpressJS
 * ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
   * #### தமிழ் (Tamil)
   * #### English
