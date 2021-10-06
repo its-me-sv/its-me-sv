@@ -8,7 +8,7 @@
 * ### [HackerRank](https://www.hackerrank.com/surajcpp115)
 * ### [GitHub](https://github.com/its-me-sv)
 * ### [FreeCodeCamp](https://www.freecodecamp.org/sura_vijay_115_py)
-* ### [Purely_Python.py]() (Instagram Page)
+* ### [Purely_Python.py](https://www.instagram.com/purely_python.py/) (Instagram Page)
 ## 🈸 Languages & Technologies
 * ### 🤖 Computer Compilable 
   * #### C
