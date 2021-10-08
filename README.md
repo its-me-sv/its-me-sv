@@ -19,6 +19,7 @@
   * #### JavaScript
   * #### Linux Shell Scripting
   * #### ReactJS
+  * #### Redux
   * #### MongoDB
   * #### NodeJS
   * #### ExpressJS
