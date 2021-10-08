@@ -14,6 +14,7 @@
   * #### C
   * #### C++
   * #### Python
+  * #### PyQt
   * #### HTML
   * #### CSS
   * #### JavaScript
