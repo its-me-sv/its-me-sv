@@ -24,6 +24,7 @@
   * #### MongoDB
   * #### NodeJS
   * #### ExpressJS
+  * #### SocketIO
 * ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
   * #### தமிழ் (Tamil)
   * #### English
