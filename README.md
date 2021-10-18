@@ -9,6 +9,7 @@
 * ### [GitHub](https://github.com/its-me-sv)
 * ### [FreeCodeCamp](https://www.freecodecamp.org/sura_vijay_115_py)
 * ### [Purely_Python.py](https://www.instagram.com/purely_python.py/) (Instagram Page)
+* ### [Programmer's Dormitory](https://www.youtube.com/channel/UCjzb3NLEbS_amCj1mhhiu2w) (Youtube Channel)
 ## 🈸 Languages & Technologies
 * ### 🤖 Computer Compilable 
   * #### C
