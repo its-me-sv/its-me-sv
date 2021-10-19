@@ -26,6 +26,7 @@
   * #### NodeJS
   * #### ExpressJS
   * #### SocketIO
+  * #### Chai
 * ### 🧑🏻‍🤝‍🧑🏻 Homposapien Compilable
   * #### தமிழ் (Tamil)
   * #### English
