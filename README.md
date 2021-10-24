@@ -5,6 +5,7 @@
 ### In the upcoming years I have planned to stack up myself with many new skills and technologies and I'm looking forward to work in a company where I Can put all my skills and hard work for the company's growth.
 
 ## 📒 Profiles
+* ### [LinkedIn](https://www.linkedin.com/in/suraj-vijay-32b679224)
 * ### [HackerRank](https://www.hackerrank.com/surajcpp115)
 * ### [GitHub](https://github.com/its-me-sv)
 * ### [FreeCodeCamp](https://www.freecodecamp.org/sura_vijay_115_py)
