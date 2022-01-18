@@ -40,8 +40,7 @@
  * ### 🎓 College
     * #### Sri Venkateswara College of Engineering
  ## 📚 Currently 
-  * ### Learning React Native
-  * ### Working on Personal Project
+  * ### Working on Personal Project with React Native
  ## 📜 Certifications
  * ### HackerRank
     * #### [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/9ab00c1b70a3)
