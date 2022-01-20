@@ -1,8 +1,6 @@
 # Suraj Vijay 🤵
 ## 🤷 About Me
-### At the age of 15 I made up mind to become a software engineer which made me to opt for the Computer Science group in my 12th grade. After successfully graduating high school from SBOA School And Junior College I'm currently presuming my 2nd year in Artificial Intelligence And Data Science from  Sri Venkateswara College Of Engineering.
-### In the 2020 pandemic I learnt many new skills like making desktop applications using python and designing fully functioning websites using html and CSS. I Also indulged myself into Competitive Programming and an active HackerRank user and verified Python, JavaScript, React, NodeJs and RestAPI Developer Along With All These Skills I'm Also good at DevOps which enabled me to establish my website from my own computer at zero cost.
-### In the upcoming years I have planned to stack up myself with many new skills and technologies and I'm looking forward to work in a company where I Can put all my skills and hard work for the company's growth.
+### Once a gamer now a self taught programmer who likes creating stuff from the scratch
 
 ## 📒 Profiles
 * ### [LinkedIn](https://www.linkedin.com/in/suraj-vijay-32b679224)
@@ -11,6 +9,7 @@
 * ### [FreeCodeCamp](https://www.freecodecamp.org/sura_vijay_115_py)
 * ### [Purely_Python.py](https://www.instagram.com/purely_python.py/) (Instagram Page)
 * ### [Programmer's Dormitory](https://www.youtube.com/channel/UCjzb3NLEbS_amCj1mhhiu2w) (Youtube Channel)
+* ### [Suraj Vijay](https://www.youtube.com/channel/UCzaYKv9poDcmO9J_Yg1dj5Q) (Personal Youtube Channel)
 ## 🈸 Languages & Technologies
 * ### 🤖 Computer Compilable 
   * #### C
