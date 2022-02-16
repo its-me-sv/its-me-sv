@@ -7,6 +7,7 @@
 * ### [HackerRank](https://www.hackerrank.com/surajcpp115)
 * ### [GitHub](https://github.com/its-me-sv)
 * ### [FreeCodeCamp](https://www.freecodecamp.org/sura_vijay_115_py)
+* ### [Twitter](https://twitter.com/surajvijay67)
 * ### [Purely_Python.py](https://www.instagram.com/purely_python.py/) (Instagram Page)
 * ### [Programmer's Dormitory](https://www.youtube.com/channel/UCjzb3NLEbS_amCj1mhhiu2w) (Youtube Channel)
 * ### [Suraj Vijay](https://www.youtube.com/channel/UCzaYKv9poDcmO9J_Yg1dj5Q) (Personal Youtube Channel)
