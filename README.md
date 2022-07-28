@@ -36,3 +36,5 @@
     * #### [Quality Assurance](https://www.freecodecamp.org/certification/sura_vijay_115_py/quality-assurance-v7)
  * ###  Coursera
     * #### [University of Michigan - Problem Solving Using Computational Thinking](https://coursera.org/share/035a822fb286a7a6875f7d269746b2f3)
+ * ###  DataStax
+    * #### [Apache Cassandra 3 Developer Associate Certification](https://certification.mettl.com/datastax/applicant/result/download-certificate?key=CQGo2K0NO6kAOPzSy2ILvw%3D%3D)
