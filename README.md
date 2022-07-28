@@ -16,16 +16,16 @@
  * ### 🎓 College - Sri Venkateswara College of Engineering
  ## 📜 Certifications
  * ### HackerRank
-    * #### [Problem Solving (Basic) Certificate](https://www.hackerrank.com/certificates/9ab00c1b70a3)
-    * #### [Python (Basic) Certificate](https://www.hackerrank.com/certificates/6cc3fe2ce333)
-    * #### [Problem Solving (Intermediate) Certificate](https://www.hackerrank.com/certificates/b58f2dd9c23a)
-    * #### [JavaScript (Intermediate) Certificate](https://www.hackerrank.com/certificates/a8df11daf5d3)
-    * #### [React (Basic) Certificate](https://www.hackerrank.com/certificates/e47e5b043717)
-    * #### [Node (Basic) Certificate](https://www.hackerrank.com/certificates/992515588fbf)
-    * #### [JavaScript (Basic) Certificate](https://www.hackerrank.com/certificates/e19e5488dd5f)
-    * #### [Node.js (Intermediate) Certificate](https://www.hackerrank.com/certificates/de215f896713)
-    * #### [Rest API (Intermediate) Certificate](https://www.hackerrank.com/certificates/c77f4d2476bd)
-    * #### [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/cf0e87f41c32)
+    * #### [Problem Solving (Basic)](https://www.hackerrank.com/certificates/9ab00c1b70a3)
+    * #### [Python (Basic)](https://www.hackerrank.com/certificates/6cc3fe2ce333)
+    * #### [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/b58f2dd9c23a)
+    * #### [JavaScript (Intermediate)](https://www.hackerrank.com/certificates/a8df11daf5d3)
+    * #### [React (Basic)](https://www.hackerrank.com/certificates/e47e5b043717)
+    * #### [Node (Basic)](https://www.hackerrank.com/certificates/992515588fbf)
+    * #### [JavaScript (Basic)](https://www.hackerrank.com/certificates/e19e5488dd5f)
+    * #### [Node.js (Intermediate)](https://www.hackerrank.com/certificates/de215f896713)
+    * #### [Rest API (Intermediate)](https://www.hackerrank.com/certificates/c77f4d2476bd)
+    * #### [SQL (Basic)](https://www.hackerrank.com/certificates/cf0e87f41c32)
  * ### FreeCodeCamp
     * #### [Responsive Web Design](https://www.freecodecamp.org/certification/sura_vijay_115_py/responsive-web-design)
     * #### [Scientific Computing With Python](https://www.freecodecamp.org/certification/sura_vijay_115_py/scientific-computing-with-python-v7)
@@ -37,4 +37,4 @@
  * ###  Coursera
     * #### [University of Michigan - Problem Solving Using Computational Thinking](https://coursera.org/share/035a822fb286a7a6875f7d269746b2f3)
  * ###  DataStax
-    * #### [Apache Cassandra 3 Developer Associate Certification](https://certification.mettl.com/datastax/applicant/result/download-certificate?key=CQGo2K0NO6kAOPzSy2ILvw%3D%3D)
+    * #### [Apache Cassandra 3 Developer Associate](https://certification.mettl.com/datastax/applicant/result/download-certificate?key=CQGo2K0NO6kAOPzSy2ILvw%3D%3D)
