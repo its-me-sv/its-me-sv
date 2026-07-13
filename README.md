@@ -1,7 +1,7 @@
 # Suraj Vijayan 🤵
 
 ## 🤷 About Me
-Once a gamer now a self taught programmer who likes creating stuff from the scratch. Myself Suraj Vijay, I like generalising stuff and building stuff from scratch. I'm an aspiring CTO, full stack web and app developer, retired competitive programmer and lover of maths. I have developed different sort of applications such as command line applications, monolithic desktop applications, static and dynamic web apps, progressive web apps, cross platform mobile apps and servers (socket servers, REST API servers, microservices server)
+Full Stack Developer specializing in React, Next.js, React Native, TypeScript, and Node.js —  building SaaS platforms, mobile apps, AI-powered and Web3-powered products from the ground up. I'm inclined towards building software products or solutions that make a real difference in people's everyday lives.
 
 ## 📒 Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vijay-32b679224) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/surajcpp115)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-me-sv)  [![FreeCodeCamo](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/sura_vijay_115_py)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/surajvijay67)  [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://surajvijay.hashnode.dev/)  [![Purely_Python.py ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/purely_python.py/)  [![Programmer's Dormitory](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjzb3NLEbS_amCj1mhhiu2w)  [![Programmer's Dormitory](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzaYKv9poDcmO9J_Yg1dj5Q)
@@ -16,9 +16,9 @@ Once a gamer now a self taught programmer who likes creating stuff from the scra
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)  ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  
  ## 🏫 Education
+ * 🎓 College (BTech, Computer Science with Specialisation in AI & DS) - Sri Venkateswara College of Engineering, Chennai
+ * 🎒 High School (PCM with Computer Science) - SBOA School & Junior College, Chennai
  * 🍭 Pre School - Don Bosco Nursery and Primary School
- * 🎒 High School - SBOA School & Junior College
- * 🎓 College - Sri Venkateswara College of Engineering
  
  ## 📜 Certifications
  * ### HackerRank
