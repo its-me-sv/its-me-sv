@@ -1,5 +1,7 @@
 # Hey, I'm Suraj 👋
 
+![Banner](/banner.png)
+
 **Full-stack engineer heading into fintech infrastructure.**
 
 I ship whole products: polished React and Next.js frontends, Node.js backends, mobile apps. Now going deeper into payments, ledgers, Go, Rust and distributed systems.
@@ -33,12 +35,12 @@ I ship whole products: polished React and Next.js frontends, Node.js backends, m
 
 **$45K+ in prize money across 4 international hackathons.**
 
-| | Event | Where | Result | Prize | Gallery |
-|---|---|---|---|---|---|
-| 🥇 | Polkadot APAC Edition | Seoul · 2023 | **1st place**, Interfaces & Experiences. 1 of 15 finalists from 1,000+ | **$18,000** | |
-| 🥈 | Polkadot Europe Edition | Paris · 2023 | **2nd of 2,400+**, plus a sponsor award for SDK integration | **$11,000** | |
-| 🏆 | DataStax AstraDB Build-a-thon | Online · 2022 | **Grand Winner**. 1 of 4 finalists from 2,300+ across 60+ countries | **$9,500** | |
-| 🏅 | IOTA Moveathon APAC | Singapore · 2025 | **Community Best Project** + 3rd place, Payments & Consumer Apps | **$7,000** | |
+| | Event | Where | Result | Prize |
+|---|---|---|---|---|
+| 🥇 | Polkadot APAC Edition | Seoul · 2023 | **1st place**, Interfaces & Experiences. 1 of 15 finalists from 1,000+ | **$18,000** |
+| 🥈 | Polkadot Europe Edition | Paris · 2023 | **2nd of 2,400+**, plus a sponsor award for SDK integration | **$11,000** |
+| 🏆 | DataStax AstraDB Build-a-thon | Online · 2022 | **Grand Winner**. 1 of 4 finalists from 2,300+ across 60+ countries | **$9,500** |
+| 🏅 | IOTA Moveathon APAC | Singapore · 2025 | **Community Best Project** + 3rd place, Payments & Consumer Apps | **$7,000** |
 
 - ⭐ **Star Achiever Award**, SVCE (2024). The principal's award, one of only two given this decade
 - 🧮 **Winner**, Kanitham 2021 national math-modelling symposium
