@@ -10,20 +10,22 @@ I ship whole products: polished React and Next.js frontends, Node.js backends, m
 
 **Open to software engineer (founding or product or core) roles in fintech, payments or Web3.** Remote, or happy to relocate. Say hi at [surajvijay67@gmail.com](mailto:surajvijay67@gmail.com).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.surajvijayan.me) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajvijay67@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vijay-32b679224) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-me-sv) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/surajvijay67) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://surajvijay.hashnode.dev/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/surajcpp115) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@surajvijay1937) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@programmersdormitory8643)
+🧭 **Just shipped: [Ariadne](https://ariadne.surajvijayan.dev)**, a 3D, source-backed atlas of how payments really move across six markets.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://surajvijayan.dev) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajvijay67@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-vijay-32b679224) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-me-sv) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/surajvijay67) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://surajvijay.hashnode.dev/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/surajcpp115) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@surajvijay1937) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@programmersdormitory8643)
 
 📑 **Jump to:** **[Building](#-currently-building)** · **[Projects](#-top-projects)** · **[Achievements](#-achievements)** · **[Experience](#-experience)** · **[Certifications](#-certifications)** · **[Stack](#-stack)** · **[Education](#-education)**
 
 ## 🔨 Currently building
 
 - **A distributed key-value store, from scratch.** The best way I know to learn how databases really work.
-- **Fintech Infrastructure Atlas.** An interactive, source-backed map of payments, banking, CBDCs and regulation across the UK, US, EU, Singapore, India and China.
 - **Learning Go and Rust.** Picking up systems depth one small build at a time.
 
 ## 🚀 Top projects
 
 | Project | What it is | Built with |
 |---|---|---|
+| **[Ariadne](https://ariadne.surajvijayan.dev)** 🆕 · [code](https://github.com/its-me-sv/ariadne-fintech-atlas) | Spin a globe, step into a 3D city per market and follow one payment from app to settlement. 736 systems, 442 rules, 24 traces, 1,306 sourced claims across India, UK, US, EU, Singapore and China | React, TypeScript, Three.js, React Three Fiber, React Flow, Vite |
 | **[Payzer](https://surajvijay.hashnode.dev/everything-about-project-payzer-1)** | Cross-border payments. Postgres triggers for transactional integrity, Redis rate limiting, event-driven SMS via LISTEN/NOTIFY | React Native, Express, PostgreSQL, Redis |
 | **[Subdot](https://github.com/its-me-sv/subdot-frontend)** 🥇🥈 | A Twitter-style social platform on Polkadot. Won Seoul, placed 2nd in Paris | Polkadot, React, TypeScript |
 | **[Zeyphr](https://github.com/SriranganK/zeyphr-frontend)** 🏅 | Payments project at IOTA Moveathon. I led a 4-person team across smart contracts, backend and POS hardware | IOTA, Move |
@@ -116,7 +118,7 @@ I ship whole products: polished React and Next.js frontends, Node.js backends, m
 
 **Frontend & mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Backend**
 
