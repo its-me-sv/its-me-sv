@@ -25,7 +25,7 @@ I ship whole products: polished React and Next.js frontends, Node.js backends, m
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Ariadne](https://github.com/its-me-sv/ariadne-fintech-atlas)** 🆕 · [code](https://github.com/its-me-sv/ariadne-fintech-atlas) | Spin a globe, step into a 3D city per market and follow one payment from app to settlement. 736 systems, 442 rules, 24 traces, 1,306 sourced claims across India, UK, US, EU, Singapore and China | React, TypeScript, Three.js, React Three Fiber, React Flow, Vite |
+| **[Ariadne](https://github.com/its-me-sv/ariadne-fintech-atlas)** 🆕 | Spin a globe, step into a 3D city per market and follow one payment from app to settlement. 736 systems, 442 rules, 24 traces, 1,306 sourced claims across India, UK, US, EU, Singapore and China | React, TypeScript, Three.js, React Three Fiber, React Flow, Vite |
 | **[Payzer](https://surajvijay.hashnode.dev/everything-about-project-payzer-1)** | Cross-border payments. Postgres triggers for transactional integrity, Redis rate limiting, event-driven SMS via LISTEN/NOTIFY | React Native, Express, PostgreSQL, Redis |
 | **[Subdot](https://github.com/its-me-sv/subdot-frontend)** 🥇🥈 | A Twitter-style social platform on Polkadot. Won Seoul, placed 2nd in Paris | Polkadot, React, TypeScript |
 | **[Zeyphr](https://github.com/SriranganK/zeyphr-frontend)** 🏅 | Payments project at IOTA Moveathon. I led a 4-person team across smart contracts, backend and POS hardware | IOTA, Move |
